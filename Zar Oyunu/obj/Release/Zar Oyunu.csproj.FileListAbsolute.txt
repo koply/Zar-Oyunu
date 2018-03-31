@@ -1,0 +1,8 @@
+c:\users\musaberat\documents\visual studio 2015\Projects\Zar Oyunu\Zar Oyunu\bin\Release\Zar Oyunu.exe.config
+c:\users\musaberat\documents\visual studio 2015\Projects\Zar Oyunu\Zar Oyunu\bin\Release\Zar Oyunu.exe
+c:\users\musaberat\documents\visual studio 2015\Projects\Zar Oyunu\Zar Oyunu\bin\Release\Zar Oyunu.pdb
+c:\users\musaberat\documents\visual studio 2015\Projects\Zar Oyunu\Zar Oyunu\obj\Release\Zar_Oyunu.Form1.resources
+c:\users\musaberat\documents\visual studio 2015\Projects\Zar Oyunu\Zar Oyunu\obj\Release\Zar_Oyunu.Properties.Resources.resources
+c:\users\musaberat\documents\visual studio 2015\Projects\Zar Oyunu\Zar Oyunu\obj\Release\Zar Oyunu.csproj.GenerateResource.Cache
+c:\users\musaberat\documents\visual studio 2015\Projects\Zar Oyunu\Zar Oyunu\obj\Release\Zar Oyunu.exe
+c:\users\musaberat\documents\visual studio 2015\Projects\Zar Oyunu\Zar Oyunu\obj\Release\Zar Oyunu.pdb
